@@ -9,3 +9,4 @@ edition = "2021"
 readme = "README.md"
 
 [dependencies]
+region = "3.0.0"
